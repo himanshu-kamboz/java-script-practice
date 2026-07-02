@@ -35,8 +35,8 @@ a {
 }
 
 button {
-    margin: 20px;
-    height: 30px;
+    margin: 12px;
+    height: 20px;
     display: none;
 }
 
@@ -64,19 +64,16 @@ button {
     }
 
     #hide {
-        padding: 5px;
+        height: 40px;
+        width: 40px;
+        padding: 11px;
         display: flex;
         position: absolute;
-        background-color: rgb(2, 132, 61);
+        background-color: rgb(35, 146, 85);
         top: 0px;
         right: 10%;
         cursor: pointer;
     }
-
-    .btn {
-        background-color: blue;
-    }
-
     #btn {
         width: 50%;
     }

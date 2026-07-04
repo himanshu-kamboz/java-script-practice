@@ -1,0 +1,26 @@
+main {
+    margin-top: 100px;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
+
+.btn {
+    height: 50px;
+    width: 50px;
+    background-color: burlywood;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.resetBtn {
+    height: 50px;
+    width: 80px;
+    background-color: burlywood;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
